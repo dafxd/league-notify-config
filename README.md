@@ -5,6 +5,7 @@ Config for league-notify-api and league-notify-web. Uses [config-leaf](https://g
 
 * [Installation](#installation)
 * [Configuration](#configuration)
+* [Usage](#usage)
 
 ## Installation
 To use the config, it needs to be decrypted. To do this, run:
