@@ -1,0 +1,4 @@
+node_modules/
+
+#Ignore config.js, so only the encrypted version is checked in
+config.js

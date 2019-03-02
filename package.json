@@ -1,0 +1,24 @@
+{
+  "name": "league-notify-config",
+  "version": "0.0.1",
+  "description": "Config for league-notify-api and league-notify-web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "encrypt": "encrypt config.js config.js.cast5",
+    "decrypt": "decrypt config.js.cast5 config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dafxd/league-notify-config.git"
+  },
+  "author": "dafxd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dafxd/league-notify-config/issues"
+  },
+  "homepage": "https://github.com/dafxd/league-notify-config#readme",
+  "dependencies": {
+    "config-leaf": "^0.3.0"
+  }
+}
